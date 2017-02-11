@@ -1,0 +1,2 @@
+C:\Users\Jeison\Documents\Orlando Almario\mapboxExample\NexosAlpha\NexosAlpha\NexosAlpha.WinPhone\NexosAlpha.WinPhone.csproj;x86
+C:\Users\Jeison\Documents\Orlando Almario\mapboxExample\NexosAlpha\NexosAlpha\NexosAlpha\NexosAlpha.csproj;neutral

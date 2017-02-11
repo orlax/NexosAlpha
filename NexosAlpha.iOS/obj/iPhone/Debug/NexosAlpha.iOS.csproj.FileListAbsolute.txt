@@ -1,0 +1,17 @@
+C:\Users\Jeison\Documents\Orlando Almario\mapboxExample\NexosAlpha\NexosAlpha\NexosAlpha.iOS\bin\iPhone\Debug\NexosAlphaiOS.exe
+C:\Users\Jeison\Documents\Orlando Almario\mapboxExample\NexosAlpha\NexosAlpha\NexosAlpha.iOS\bin\iPhone\Debug\NexosAlphaiOS.pdb
+C:\Users\Jeison\Documents\Orlando Almario\mapboxExample\NexosAlpha\NexosAlpha\NexosAlpha.iOS\bin\iPhone\Debug\NexosAlpha.dll
+C:\Users\Jeison\Documents\Orlando Almario\mapboxExample\NexosAlpha\NexosAlpha\NexosAlpha.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\Jeison\Documents\Orlando Almario\mapboxExample\NexosAlpha\NexosAlpha\NexosAlpha.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Jeison\Documents\Orlando Almario\mapboxExample\NexosAlpha\NexosAlpha\NexosAlpha.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\Jeison\Documents\Orlando Almario\mapboxExample\NexosAlpha\NexosAlpha\NexosAlpha.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Jeison\Documents\Orlando Almario\mapboxExample\NexosAlpha\NexosAlpha\NexosAlpha.iOS\bin\iPhone\Debug\NexosAlpha.pdb
+C:\Users\Jeison\Documents\Orlando Almario\mapboxExample\NexosAlpha\NexosAlpha\NexosAlpha.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
+C:\Users\Jeison\Documents\Orlando Almario\mapboxExample\NexosAlpha\NexosAlpha\NexosAlpha.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Jeison\Documents\Orlando Almario\mapboxExample\NexosAlpha\NexosAlpha\NexosAlpha.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Jeison\Documents\Orlando Almario\mapboxExample\NexosAlpha\NexosAlpha\NexosAlpha.iOS\obj\iPhone\Debug\optimized\
+C:\Users\Jeison\Documents\Orlando Almario\mapboxExample\NexosAlpha\NexosAlpha\NexosAlpha.iOS\obj\iPhone\Debug\NexosAlpha.iOS.csprojResolveAssemblyReference.cache
+C:\Users\Jeison\Documents\Orlando Almario\mapboxExample\NexosAlpha\NexosAlpha\NexosAlpha.iOS\obj\iPhone\Debug\NexosAlphaiOS.exe
+C:\Users\Jeison\Documents\Orlando Almario\mapboxExample\NexosAlpha\NexosAlpha\NexosAlpha.iOS\obj\iPhone\Debug\NexosAlphaiOS.pdb
+C:\Users\Jeison\Documents\Orlando Almario\mapboxExample\NexosAlpha\NexosAlpha\NexosAlpha.iOS\obj\iPhone\Debug\NexosAlphaiOS.exe.mdb
+C:\Users\Jeison\Documents\Orlando Almario\mapboxExample\NexosAlpha\NexosAlpha\NexosAlpha.iOS\bin\iPhone\Debug\NexosAlphaiOS.exe.mdb

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NexosAlpha.mainPage">
+ 
+   <RelativeLayout x:Name="mainLayout" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" BackgroundColor="Black">
+     
+     <Image x:Name="previewImg" HorizontalOptions="FillAndExpand" RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width,Factor=0,Constant=0}" 
+                                                                  RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height,Factor=0,Constant=0}"
+                                                                  RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width,Factor=1,Constant=0}"
+                                                                  RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height,Factor=1,Constant=0}"></Image>
+    
+     <Image x:Name="takePictureBtn" Source="nexosBtn"             RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width,Factor=0.375,Constant=0}" 
+                                                                            RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height,Factor=0.75,Constant=0}"
+                                                                            RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width,Factor=0.25,Constant=0}"
+                                                                            RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width,Factor=0.25,Constant=0}">
+       <Image.GestureRecognizers>
+         <TapGestureRecognizer Tapped="takePictureBtn_Clicked" NumberOfTapsRequired="1" />
+       </Image.GestureRecognizers> 
+     </Image>
+     
+     <Label x:Name="labelTxt" Text="Escanea una imágen" HorizontalOptions="Center" XAlign="Center" FontSize="22" RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width,Factor=0,Constant=0}" 
+                                                                  RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height,Factor=0.9,Constant=0}"
+                                                                  RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width,Factor=1,Constant=0}"
+                                                                  RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width,Factor=0.1,Constant=0}"></Label>
+     
+     <!-- <Button x:Name="takePictureBtn" VerticalOptions="Center" HorizontalOptions="FillAndExpand" Text="Agregar una imágen"  AbsoluteLayout.LayoutBounds=".5,.8,0.5,0.15" AbsoluteLayout.LayoutFlags="All"></Button> -->
+     
+    <ActivityIndicator x:Name="indicator" IsRunning="False" Color="#F7AB1E"  RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width,Factor=0.375,Constant=0}" 
+                                                                            RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height,Factor=0.75,Constant=0}"
+                                                                            RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width,Factor=0.25,Constant=0}"
+                                                                            RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width,Factor=0.25,Constant=0}"></ActivityIndicator>
+   
+  </RelativeLayout>
+
+</ContentPage>

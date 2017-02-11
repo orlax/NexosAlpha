@@ -1,0 +1,11 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\jeison\documents\orlando almario\mapboxexample\nexosalpha\nexosalpha\nexosalpha.winphone\obj\x86\debug\intermediatexaml\nexosalpha.winphone.exe" HashGuid="ccf145cf-0747-296f-a461-ca7bd3742c81" />
+    <ReferenceAssembly PathName="c:\users\jeison\documents\orlando almario\mapboxexample\nexosalpha\nexosalpha\nexosalpha\bin\debug\nexosalpha.dll" HashGuid="a2af04d1-6aba-a6ac-8b44-2ac18f72f013" />
+    <ReferenceAssembly PathName="c:\users\jeison\documents\orlando almario\mapboxexample\nexosalpha\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.core.dll" HashGuid="c8a30eb8-5ae8-352d-b94f-7c913a7557ba" />
+    <ReferenceAssembly PathName="c:\users\jeison\documents\orlando almario\mapboxexample\nexosalpha\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.platform.dll" HashGuid="d9389e38-8a39-bed5-406b-7a34fe4704ea" />
+    <ReferenceAssembly PathName="c:\users\jeison\documents\orlando almario\mapboxexample\nexosalpha\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="dbd728c2-e21b-4125-2be0-f7931b605baa" />
+    <ReferenceAssembly PathName="c:\users\jeison\documents\orlando almario\mapboxexample\nexosalpha\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="f7f417b9-5b4a-9692-10d4-bb874feaa2e9" />
+    <ReferenceAssembly PathName="c:\users\jeison\documents\orlando almario\mapboxexample\nexosalpha\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="2828b56a-3245-7d15-6650-dfb4f30cfa91" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
